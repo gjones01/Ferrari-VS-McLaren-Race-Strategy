@@ -279,17 +279,8 @@ Both Ferrari and McLaren arrived at Monza facing a similar challenge: optimizing
 
 Norris later admitted in a post-race interview: "Ferrari did something with strategy we would not have been able to achieve today." McLaren would also concede that they were inaccurate with the window in which they pitted their cars. As mentioned before, these pit stop errors were partially induced by Ferrari pressuring McLaren. While McLaren’s inability to fully solve their tyre wear problem cost them at Monza, their overall performance remained strong throughout the season. In the end, McLaren would go on to win the 2024 Constructors' Championship, proving their long-term development and race execution were consistently strong.
 
-**6. Future Plans**
 
-This project serves as a stepping stone for a larger iteration of the 2024 Italian Grand Prix, with the next phase focusing on AI-driven race strategy simulations. Currently, I am developing an AI model designed to answer post-race "what if" questions—a common discussion point in Formula 1. This model will be trained on historical F1 track and car telemetry data, enabling it to simulate different race scenarios based on real-world conditions. The goal is to create a tool that can:
-
-- Simulate alternative race strategies to assess whether a different approach could have changed the outcome.
-- Predict the effectiveness of pre-race strategies, helping to evaluate the merit of different pit stop and tyre management plans.
-- Provide data-driven insights for fans and analysts looking to explore how variables like Safety Cars, tyre degradation, or pit timing impact race results.
-  
-This AI model will serve as both a post-race analysis tool and a pre-race strategy tester, offering a deeper, data-backed perspective on race decisions.
-
-**7. References**
+**6. References**
 
 1. **Race Highlioghts | 2024 Italian Grand Prix** - *Formula 1 YouTube Channel* 
    - [Link](https://www.youtube.com/watch?v=sTmpbEYUba0)
